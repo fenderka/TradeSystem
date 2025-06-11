@@ -1,0 +1,8 @@
+name: TradeSystem
+main: tradesystem.TradeSystemPlugin
+version: 1.0
+api-version: 1.21
+commands:
+  trade:
+    description: Торговля с игроком
+    usage: /trade <ник> | yes| cancel
